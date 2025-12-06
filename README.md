@@ -44,21 +44,3 @@ This platform offers a suite of tools for both novice and experienced investors:
 *   **ta (Technical Analysis Library):** For calculating various technical indicators.
 *   **datetime & dateutil:** For date and time manipulations.
 
-## Project Structure
-TIME SERIES/
-│
-├── PAGES/
-│   ├── __pycache__/
-│   │   └── ...
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   ├── model_train.py
-│   │   └── plotly_figure.py
-│   ├── __init__.py
-│   ├── CRPM Return.py
-│   ├── Stock_Analysis.py
-│   └── Stock_Prediction.py
-│
-├── images.jpeg
-├── SOURCES.TXT
-└── Trading.App.py
